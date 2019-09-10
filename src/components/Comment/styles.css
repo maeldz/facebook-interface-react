@@ -1,0 +1,23 @@
+#comment {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: left;
+  align-items: top;
+}
+
+#comment img {
+  height: 28px;
+  border-radius: 16px;
+}
+
+#comment p {
+  padding: 10px 15px 10px;
+  font-size: 13px;
+  margin-left: 10px;
+  background: #eeeeee;
+  border-radius: 20px;
+}
+
+#comment p > strong {
+  margin-right: 5px;
+}

@@ -1,0 +1,40 @@
+.post-list article {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.post-list article > strong {
+  font-size: 14px;
+}
+
+.post-list article #user-data {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+}
+
+.post-list article #user-data p {
+  font-size: 11px;
+  color: #9a9a9a;
+}
+
+.post-list article #user-data img {
+  margin-right: 10px;
+  width: 32px;
+  height: 32px;
+  border-radius: 16px;
+}
+
+.post-list article > p {
+  margin-top: 15px;
+  font-size: 14px;
+}
+
+.post-list article hr {
+  margin: 20px 0;
+  border: 0;
+  border-top: 1px solid #eeeeee;
+}
