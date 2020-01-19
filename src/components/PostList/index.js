@@ -33,7 +33,7 @@ class PostList extends Component {
         author: {
           name: "Gabriel Lisboa",
           avatar:
-            "http://www.jq22.com/demo/Simplify_Admin201702282213/images/profile/profile9.jpg"
+            "http://keenthemes.com/preview/metronic/theme/assets/pages/media/profile/profile_user.jpg"
         },
         date: "09 Jun 2019",
         content:
@@ -54,7 +54,7 @@ class PostList extends Component {
             author: {
               name: "Cézar Toledo",
               avatar:
-                "https://modeltheme.com/mt_edulearn/wp-content/uploads/avatars/6/5a620326a1c01-bpfull.png"
+                "https://amp.insider.com/images/589a1779dd0895cb6e8b4a1d-750-750.jpg"
             },
             content:
               "Que maaaaassa! Estou pensando em me inscrever na próxima turma pra ver qual é desse Bootcamp GoStack, dizem que os devs saem de lá com super poderes!"
